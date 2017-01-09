@@ -1,6 +1,6 @@
 # gulp_fast_start
 
-![previewImgMain](https:// "")
+![previewImgMain](https://https://github.com/marchenkovdmitry/gulp_fast_start/tree/master/gulp.png "")
 
 
 Что это?
