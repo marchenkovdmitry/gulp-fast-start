@@ -1,4 +1,4 @@
-# gulp_fast_start
+# gulp-fast-start
 
 ![previewImgMain](https://github.com/marchenkovdmitry/gulp_fast_start/blob/master/gulp.png?raw=true "")
 
